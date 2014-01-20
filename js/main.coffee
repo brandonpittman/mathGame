@@ -13,4 +13,4 @@ $ ->
     $('.answer').append answer
     $('.answer-section').css('display', 'inline-block')
   $('.play-again').click ->
-    document.location.reload(true)
+    document.location.reload(false)
