@@ -1,0 +1,877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blue",
+				"blue-border"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"col",
+				"colored-border"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"play",
+				"play2"
+			],
+			[
+				"rando",
+				"randomInt"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-pad"
+			],
+			[
+				"dis",
+				"disc"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"post",
+				"post8"
+			],
+			[
+				"conc",
+				"connectionsTo"
+			],
+			[
+				"pos",
+				"post1"
+			],
+			[
+				"ge",
+				"genericPost"
+			],
+			[
+				"nu",
+				"numRangers"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"photo",
+				"photoArray"
+			],
+			[
+				"random",
+				"randomPhoto"
+			],
+			[
+				"user",
+				"userAge"
+			],
+			[
+				"total",
+				"totalMW"
+			],
+			[
+				"erup",
+				"eruption3"
+			],
+			[
+				"eru",
+				"eruption2"
+			],
+			[
+				"e",
+				"eruption1"
+			],
+			[
+				"cla",
+				"cla	class .. initialize .. end"
+			],
+			[
+				"msg",
+				"msg_check"
+			],
+			[
+				"A",
+				"A-Z"
+			],
+			[
+				"What",
+				"Whatever"
+			],
+			[
+				"cl",
+				"cla	class .. initialize .. end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.coffee",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/screen.sass",
+			"settings":
+			{
+				"buffer_size": 668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Marked.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"mmd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"md",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"markd",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"snippp",
+				"Snippet: link_to (path)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Coffee: Check Syntax"
+			],
+			[
+				"compile",
+				"Coffee: Compile File"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"display",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"lite",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"coffeescrip",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mm",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"insa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/archived_notes/server_login.md",
+		"/Users/brandonpittman/Dropbox/Documents/Code/javascript/mathGame/sass/screen.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Code/javascript/mathGame/js/main.coffee",
+		"/Users/brandonpittman/Dropbox/Documents/Code/javascript/mathGame/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/javascript/mathGame/js/main.js",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/mathGame.mmd",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/Ocean.css.md",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/Ocean.sass",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/css/Ocean.css",
+		"/Users/brandonpittman/Dropbox/Documents/Code/design/Ocean.sass",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/SunCycle.sublime-settings",
+		"/Users/brandonpittman/Desktop/mathgame/js/main.coffee",
+		"/Users/brandonpittman/Desktop/mathgame/index.html",
+		"/Users/brandonpittman/Desktop/mathgame/sass/screen.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/js/anna.coffee",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/summer2014/sass/screen.sass",
+		"/Users/brandonpittman/index.html",
+		"/Users/brandonpittman/js/main.coffee",
+		"/Users/brandonpittman/sass/screen.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/WhatILearnedToday.rb",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/ShellCommand.sublime-commands",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/archived_notes/kioku_2013.md",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/test.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/archived_notes/getaway.md",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/css/test.css",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/test.md",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/kioku_2014.md",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/test.css",
+		"/Users/brandonpittman/Library/Application Support/Marked/Custom CSS/Custom Example.css",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/links2post.md",
+		"/Users/brandonpittman/Dropbox/Documents/Code/bower_components/planetary.js/README.md",
+		"/Users/brandonpittman/Desktop/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/bower_components/planetary.js/script/set-version",
+		"/Users/brandonpittman/Dropbox/Documents/Code/cert_names.md",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/2014/style.css",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/2014/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/alt/css/screen.css",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/css/screen.css",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/summer2014/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/summer2014/css/screen.css",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/summer2014/js/main.coffee",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/new_site.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/gg/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/gg/sass/screen.sass",
+		"/Users/brandonpittman/Dropbox/TheLostWorld/styles.css",
+		"/Users/brandonpittman/Dropbox/TheLostWorld/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/install_rvm.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/archived_notes/grumpy_gaijin_color_palette.md",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/sass/screen.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/alt/sass/screen.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/alt/index.html",
+		"/Users/brandonpittman/Desktop/test/screen.sass",
+		"/Users/brandonpittman/Desktop/test/css/screen.css",
+		"/Users/brandonpittman/Desktop/test/index.html",
+		"/Users/brandonpittman/Desktop/test/untitled.sass",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/gg/js/main.coffee",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/bad_gaijin.md",
+		"/private/var/folders/q5/p4rpcgvx101ctdyg2xb6wtv40000gn/T/444.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/javascript/bubble.js",
+		"/Users/brandonpittman/Desktop/test.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/lesson_notes.rb",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/open_lesson_notes.rb",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/example/99_Bottles_of_Beer.rb",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/example/FizzBuzz_Ruby.rb",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/example/Playing_with_Variables.rb",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/planter",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/plant",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/auto_update_software_update.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/Backups.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/CheckDayfiles.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/chmod_ax.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/CheckTodaysFile.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/install_homebrew.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/rm_conflict.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/update_brew",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/index.haml",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/js/anna.js",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna copy/index.haml",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna copy/index.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/test.html",
+		"/Users/brandonpittman/Dropbox/Documents/Code/sites/anna/test.haml",
+		"/Users/brandonpittman/Desktop/test.haml",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/UpdateBrewGem.sh",
+		"/Users/brandonpittman/Desktop/test",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/syncDesktop2USB.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/tickle_today.sh",
+		"/Users/brandonpittman/Dropbox/test.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/auto_update_software_update.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/install_homebrew.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/install_ruby_with_brew.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/install_rvm.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/rvm_wrapper_for_ruby_scripts.sh",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Ruby/check_school_schedule.rb",
+		"/Users/brandonpittman/Dropbox/.zshrc",
+		"/Users/brandonpittman/Dropbox/Application Support/Logs/Renamer.log",
+		"/Users/brandonpittman/Dropbox/Application Support/Logs/leave_home.log",
+		"/Users/brandonpittman/Dropbox/Application Support/Logs/welcome_home.log",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/old_fridge.md",
+		"/Users/brandonpittman/Dropbox/Documents/Code/url_decoder_encoder.html",
+		"/Users/brandonpittman/Dropbox/edu/codeschool_courses/codeschool_javascript/codeschool_javascript_3/print.js",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/trusted_inbox.md",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/CoffeeComplete Plus (Autocompletion)/CoffeeComplete Plus.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/brandonpittman/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/brandonpittman/Dropbox/Documents/Markdown/trusted_inbox.mmd",
+		"/Users/brandonpittman/Dropbox/Documents/Code/Shell Scripts/review_friday_reflection.sh",
+		"/Users/brandonpittman/Library/Application Support/MailMate/Resources/KeyBindings/Special.plist",
+		"/Users/brandonpittman/Desktop/grid/css/screen.css",
+		"/Users/brandonpittman/Desktop/grid/index.html",
+		"/Users/brandonpittman/Desktop/grid/sass/screen.scss",
+		"/Users/brandonpittman/Desktop/grid/sass/screen.sass",
+		"/Users/brandonpittman/Desktop/grid/screen.sass"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"",
+			"selection",
+			"",
+			"screen.sass",
+			"",
+			"\n<open files>",
+			"\n\n,<open files>,<open files>",
+			"\n\n,<open files>",
+			"\n\n",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"colored-border",
+			"p",
+			"column",
+			"wrap",
+			"width",
+			"em",
+			"eae1df",
+			" #",
+			"c0a59e",
+			"a60f01",
+			"c0a59e",
+			"ff7700",
+			"efefef",
+			"{|}|;",
+			"now",
+			"\\n",
+			"(Left home)( at)",
+			"(Came home)( at)",
+			"Welcome Home",
+			"shiny",
+			"9",
+			"8",
+			"1",
+			"post1",
+			"tab",
+			"tag",
+			";",
+			"[{|}]",
+			"wrap",
+			"word-wrap",
+			"code",
+			"flex",
+			"overflow",
+			"pre",
+			"code",
+			"p {",
+			"wrap",
+			"overflow",
+			"code",
+			"\\n",
+			"the_path",
+			"ls",
+			"editor",
+			"- ",
+			"//",
+			"▪",
+			"regex",
+			"tab",
+			"^",
+			"usr",
+			"tab",
+			"sublime",
+			"games",
+			"__",
+			"\"example_file.txt\"",
+			"__",
+			"(def .+)",
+			"skip",
+			"json",
+			"if",
+			"(puts .+)(when .+)",
+			"|f|",
+			"^\\* ",
+			"^\\*",
+			"^\\* ",
+			"^\\*\\s ",
+			"^\\* ",
+			"^* ",
+			"TRUE|True",
+			"wry",
+			"ps2",
+			"ls",
+			"theme",
+			":",
+			"if",
+			"white",
+			"font",
+			"document",
+			"default",
+			"close",
+			"theme",
+			"key"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"cb",
+			"\\\\n",
+			"$1:",
+			"Came home",
+			"",
+			"schedules",
+			" ",
+			"-",
+			"Regex",
+			"- ",
+			"tvshows",
+			"\"/Users/brandonpittman/Desktop/example_file.txt\"",
+			"$1\\n",
+			"$1\\nskip",
+			"",
+			"when",
+			"$2$1",
+			"|file|",
+			"",
+			"true",
+			"/"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								801,
+								811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/screen.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								624,
+								624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								970,
+								970
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"project": "mathGame.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"coff",
+				"anna.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"",
+				"set_text"
+			]
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
