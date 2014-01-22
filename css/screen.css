@@ -420,7 +420,7 @@ body {
   text-align: center; }
 
 aside {
-  width: 50%;
+  width: 60%;
   margin: auto; }
 
 main {
@@ -432,6 +432,15 @@ main {
 h1 {
   margin: 50px 0;
   font-size: 5em; }
+
+.teams {
+  display: none; }
+
+.one, .two, .three, .four {
+  margin: 50px 0;
+  font-size: 5em;
+  width: 20%;
+  margin: 0 5px; }
 
 .question-section {
   display: inline-block; }
@@ -450,7 +459,13 @@ h1 {
 
 .team2 {
   display: inline-block;
-  float: right; }
+  float: right;
+  margin-left: 15px; }
+
+.team3, .team4 {
+  display: none;
+  float: right;
+  margin-left: 15px; }
 
 .name {
   padding-top: 0.3em;
@@ -464,6 +479,16 @@ h1 {
 
 .points2 {
   border: 10px solid #2ecc40;
+  padding: 10px;
+  border-radius: 10px; }
+
+.points3 {
+  border: 10px solid #ffdc00;
+  padding: 10px;
+  border-radius: 10px; }
+
+.points4 {
+  border: 10px solid #b10dc9;
   padding: 10px;
   border-radius: 10px; }
 
