@@ -43,7 +43,7 @@ setUp = ->
       when "-" then operator = "+"
 
 showAnswer = ->
-  $('.question-section').css('display', 'none')
+  $('.question-section').hide()
   $('.answer').append answer
   $('.answer-section').css('display', 'inline-block')
 
@@ -51,12 +51,13 @@ playAgain = ->
   $('.question').text ""
   $('.answer').text ""
   setUp()
-  $('.answer-section').css('display', 'none')
+  $('.answer-section').hide()
   $('.question-section').css('display', 'inline-block')
 
 playGame = ->
   setUp()
-  $('.teams').css('display', 'none')
+  $('.startup').hide()
+  $('.teams').hide()
   $('main').css('display', 'inline-block')
   switch teamCount
     when 3
@@ -105,7 +106,7 @@ playGame = ->
 $ ->
   $('.easy').click ->
     max = 20
-    getTeams()
+    playGame()
   $('.hard').click ->
     max = 100
-    getTeams()
+    playGame()
